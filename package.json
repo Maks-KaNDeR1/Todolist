@@ -19,6 +19,7 @@
     "@types/react-router-dom": "^5.1.5",
     "@types/uuid": "^7.0.3",
     "axios": "^0.19.2",
+    "browserslist": "^4.20.3",
     "formik": "^2.1.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
