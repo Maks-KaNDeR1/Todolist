@@ -1,6 +1,6 @@
 {
-  "name": "todo",
-  "homepage": "https://maks-kander1.github.io/my-todolist/",
+  "name": "todolist",
+  "homepage": "https://maks-kander1.github.io/todolist/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
